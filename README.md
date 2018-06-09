@@ -130,11 +130,12 @@ writeText.m
 ```
 
 ### Draw Image
+
 This function does not create any Gcode and only allows for pre-exsisting Gcode to be sent to the Gcode. The file must be of .txt format and listed in the current directory. Once the file is selected from the drop down menu, select "Send Gcode".
 
 ## Contributing
 
-I hope that more people will take interest in this project so that MATLAB could have a reliable and functional GRBL controller. I have commented the functions 
+I hope that more people will take interest in this project so that MATLAB could have a reliable and functional GRBL controller. I have commented the functions in hopes to make the code understandable.
 
 ## Authors
 
