@@ -46,6 +46,7 @@ GRBL_Controller.mlapp
 ## How to Use
 
 ### Machine Control
+
 This tab is used to setup GRBL. The user can enter the COM port that the Arudino is connected to and connect/disconnect from it.
 
 As of the initial release: Only "Unlock", "Homming", and "Return to Zero" are functioning as well as the "COMM Port" functions.
@@ -56,6 +57,7 @@ COMM Port:  'COM8'
 ```
 
 ### Draw Circle
+
 The user can draw a circle of any radius and place its center anywhere (within the limits of the machine). The inputs for all three properties MUST be in MILIMETERS. Once the properties are inputted, click "Draw Circle" to create the Gcode .txt file and send it to the Arduino.
 
 Example
@@ -76,6 +78,7 @@ G02plotCircle.m
 ```
 
 ### Draw Square
+
 The user can draw a square of any length for the sides and place it anywhere (within the limits of the machine). The inputs for all three properties MUST be in MILIMETERS. Once the properties are inputted, click "Draw Square" to create the Gcode .txt file and send it to the Arduino.
 
 Example
@@ -96,6 +99,7 @@ plotSquare.m
 ```
 
 ### Write Text
+
 We wanted to the user to be able to write any text they desired and place it anywhere (again within the limits of the machine). The user enters text at the "Enter Text" area which can include:
 
 ```
