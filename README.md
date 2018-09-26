@@ -148,8 +148,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Sergio Rivera Lavado - Created circuit_to_gcode.m function. I followed his approach to createing Gcode files in MATLAB.
+* **Sergio Rivera Lavado** - Created circuit_to_gcode.m function. I followed his approach to createing Gcode files in MATLAB.
 	https://www.mathworks.com/matlabcentral/fileexchange/34965-circuit-to-gcode
-* lingib - Created Instructable on how to use GRBL with a PEN
+* **lingib** - Created Instructable on how to use GRBL with a PEN
 	http://www.instructables.com/id/How-to-Control-a-Servo-Using-GRBL/
-* Mojtaba Azadi, Ph.D. - SFSU Mechatronics Instructor
+* **Mojtaba Azadi, Ph.D.** - SFSU Mechatronics Instructor
